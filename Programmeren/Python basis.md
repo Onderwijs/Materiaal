@@ -123,15 +123,16 @@ char	een karakter (teken)
 
 6.	Neem het stukje code over en run. Probeer verschillende startwaarden voor a en b.
 Processen die te snel gaan kun je vertragen. Daarvoor heb je de library time nodig. In deze library zitten weer stukjes code die je kunt gebruiken.
-```{code-cell}
-a = 1;
-b = 1;
+
+```{code-cell} python
+a = 1
+b = 1
 
 while True:
     c = a + b
-    print(c);
-    a = b;
-    b = c;
+    print(c)
+    a = b
+    b = c
 ```
 7.	Importeer de library time door bovenaan je code te zetten: import time. De code voor een seconde wachten met uitvoeren van een volgende coderegel is: time.sleep(1). Laat je code opnieuw runnen, maar dan met enige vertraging.
 Een van de belangrijkste stukjes code in de programmeertaal is het if-statement. Als er aan een gestelde voorwaarde wordt voldaan, dan moet er een specifiek stukje code worden uitgevoerd. Bijvoorbeeld: als ik 1 miljoen win (geef aan met == in de  code) , dan geef ik €100.000,- weg aan goede doelen. In programmeertaal moet er dus gekeken worden of er aan die voorwaarde wordt voldaan en als dat zo is, dan moet er een specifieke actie volgen. Elke programmeertaal kent deze voorwaarde, de manier waarop die voorwaarde precies wordt opgeschreven (syntax) verschilt per programmeertaal.
