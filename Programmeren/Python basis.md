@@ -190,14 +190,15 @@ while True:
 2.	Leg uit dat je nu een soort klok hebt gemaakt.
 3.	Hoe zou je de tijd laten beginnen op 2400 s?
 4.	Verander je code zodat alleen elke 5e seconde de tijd geprint wordt. (tip: Je kunt werken met modulo. i%5 deelt eerst door 5 en berekend vervolgens hoeveel er dan nog over is: 7%5 = 2  en 28%5 = 3)
-Je kunt meerdere voorwaarden tegelijk hebben en bekijken. In python gebeurt dit met or. Bijvoorbeeld: if i%5 == 0 or i%7 == 0: print(i);
+
+Je kunt meerdere voorwaarden tegelijk hebben en bekijken. In python gebeurt dit met or. Bijvoorbeeld: `if i%5 == 0 or i%7 == 0: print(i)`
 5.	Probeer bovenstaande en leg uit wat er gebeurt.
 
-Vergelijken (if)
-==	links gelijk aan rechts
-!=	links ongelijk aan rechts
->	links groter dan rechts
-<	links kleiner dan rechts
->=	links groter of gelijk aan rechts
+Vergelijken (if)\
+==	links gelijk aan rechts\
+!=	links ongelijk aan rechts\
+>	links groter dan rechts\
+<	links kleiner dan rechts\
+>=	links groter of gelijk aan rechts\
 <=	links kleiner of gelijk aan rechts
 
