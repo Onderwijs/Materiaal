@@ -5,6 +5,11 @@ downloads:
 
 Voer met autootjes of lego poppetje de volgende beweging uit en maak er een stopmotion filmpje van. Klaar? Wissel je filmpje uit met een andere groep en gebruik videometen om er achter te komen wat de opdracht was.
 
+```{iframe}
+:width 70%
+https://www.youtube.com/embed/vS1bCVfhnfk?si=HiRMfQDlfArJU789
+```
+
 1	a.	De versnelling is 0,5 hokje s$^{-2}$ vertrekkend vanuit rust.\
 	b.	De snelheid is 1,0 hokje s$^{-1}$.
 
